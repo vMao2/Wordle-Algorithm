@@ -6,3 +6,5 @@ This is in know way a complete algorithm and is not user friendly. It takes a co
 If the word was skill and it had not elimated swill or shill, The algorithm will pick the word awake because is has the most letters that are unknown.
 ## Future plans
 I might make a webapp, app, or both in the future to make it easier to use. 
+## Wordlist
+you can access the wordlist of wordles possible answers Wordlist.txt
